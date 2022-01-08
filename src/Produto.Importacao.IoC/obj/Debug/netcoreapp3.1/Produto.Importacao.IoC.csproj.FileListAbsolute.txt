@@ -1,0 +1,8 @@
+C:\Users\Vini\Desktop\Teste_Capgemini\Enviar_GitHub\Produto.Importacao.Api\src\Produto.Importacao.IoC\bin\Debug\netcoreapp3.1\Produto.Importacao.IoC.deps.json
+C:\Users\Vini\Desktop\Teste_Capgemini\Enviar_GitHub\Produto.Importacao.Api\src\Produto.Importacao.IoC\bin\Debug\netcoreapp3.1\Produto.Importacao.IoC.dll
+C:\Users\Vini\Desktop\Teste_Capgemini\Enviar_GitHub\Produto.Importacao.Api\src\Produto.Importacao.IoC\bin\Debug\netcoreapp3.1\Produto.Importacao.IoC.pdb
+C:\Users\Vini\Desktop\Teste_Capgemini\Enviar_GitHub\Produto.Importacao.Api\src\Produto.Importacao.IoC\obj\Debug\netcoreapp3.1\Produto.Importacao.IoC.AssemblyInfoInputs.cache
+C:\Users\Vini\Desktop\Teste_Capgemini\Enviar_GitHub\Produto.Importacao.Api\src\Produto.Importacao.IoC\obj\Debug\netcoreapp3.1\Produto.Importacao.IoC.AssemblyInfo.cs
+C:\Users\Vini\Desktop\Teste_Capgemini\Enviar_GitHub\Produto.Importacao.Api\src\Produto.Importacao.IoC\obj\Debug\netcoreapp3.1\Produto.Importacao.IoC.csproj.CoreCompileInputs.cache
+C:\Users\Vini\Desktop\Teste_Capgemini\Enviar_GitHub\Produto.Importacao.Api\src\Produto.Importacao.IoC\obj\Debug\netcoreapp3.1\Produto.Importacao.IoC.dll
+C:\Users\Vini\Desktop\Teste_Capgemini\Enviar_GitHub\Produto.Importacao.Api\src\Produto.Importacao.IoC\obj\Debug\netcoreapp3.1\Produto.Importacao.IoC.pdb

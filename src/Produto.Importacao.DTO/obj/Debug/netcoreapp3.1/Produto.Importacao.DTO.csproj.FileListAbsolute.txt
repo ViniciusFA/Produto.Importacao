@@ -1,0 +1,8 @@
+C:\Users\Vini\Desktop\Teste_Capgemini\Enviar_GitHub\Produto.Importacao.Api\src\Produto.Importacao.DTO\bin\Debug\netcoreapp3.1\Produto.Importacao.DTO.deps.json
+C:\Users\Vini\Desktop\Teste_Capgemini\Enviar_GitHub\Produto.Importacao.Api\src\Produto.Importacao.DTO\bin\Debug\netcoreapp3.1\Produto.Importacao.DTO.dll
+C:\Users\Vini\Desktop\Teste_Capgemini\Enviar_GitHub\Produto.Importacao.Api\src\Produto.Importacao.DTO\bin\Debug\netcoreapp3.1\Produto.Importacao.DTO.pdb
+C:\Users\Vini\Desktop\Teste_Capgemini\Enviar_GitHub\Produto.Importacao.Api\src\Produto.Importacao.DTO\obj\Debug\netcoreapp3.1\Produto.Importacao.DTO.AssemblyInfoInputs.cache
+C:\Users\Vini\Desktop\Teste_Capgemini\Enviar_GitHub\Produto.Importacao.Api\src\Produto.Importacao.DTO\obj\Debug\netcoreapp3.1\Produto.Importacao.DTO.AssemblyInfo.cs
+C:\Users\Vini\Desktop\Teste_Capgemini\Enviar_GitHub\Produto.Importacao.Api\src\Produto.Importacao.DTO\obj\Debug\netcoreapp3.1\Produto.Importacao.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Vini\Desktop\Teste_Capgemini\Enviar_GitHub\Produto.Importacao.Api\src\Produto.Importacao.DTO\obj\Debug\netcoreapp3.1\Produto.Importacao.DTO.dll
+C:\Users\Vini\Desktop\Teste_Capgemini\Enviar_GitHub\Produto.Importacao.Api\src\Produto.Importacao.DTO\obj\Debug\netcoreapp3.1\Produto.Importacao.DTO.pdb
