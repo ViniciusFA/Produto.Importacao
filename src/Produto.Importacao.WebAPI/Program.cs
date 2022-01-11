@@ -1,14 +1,14 @@
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.Configuration;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
-using System;
-using System.Collections.Generic;
+using Produto.Importacao.Data.Context;
 using System.Linq;
-using System.Threading.Tasks;
 
 namespace Produto.Importacao.WebAPI
 {
+    /// <summary>
+    /// Program
+    /// </summary>
     public class Program
     {
         public static void Main(string[] args)

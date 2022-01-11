@@ -4,4 +4,16 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+    <PackageReference Include="MemoryBus" Version="1.0.56" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Produto.Importacao.Data\Produto.Importacao.Data.csproj" />
+    <ProjectReference Include="..\Produto.Importacao.Domain\Produto.Importacao.Domain.csproj" />
+    <ProjectReference Include="..\Produto.Importacao.DTO\Produto.Importacao.DTO.csproj" />
+  </ItemGroup>
+
 </Project>

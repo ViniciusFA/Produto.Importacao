@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Produto.Importacao.WebAPI</name>
+    </assembly>
+    <members>
+        <member name="T:Produto.Importacao.WebAPI.Controllers.BaseController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Produto.Importacao.WebAPI.Controllers.BaseController._mapper">
+            <summary>
+            Mapper
+            </summary>
+        </member>
+        <member name="F:Produto.Importacao.WebAPI.Controllers.BaseController._mediator">
+            <summary>
+            Mediator
+            </summary>
+        </member>
+        <member name="M:Produto.Importacao.WebAPI.Controllers.BaseController.#ctor(AutoMapper.IMapper,MediatR.IMediator)">
+            <summary>
+            Controller base para padronizar chamadas
+            </summary>
+            <param name="mapper">Instância do Mapper</param>
+            <param name="mediator">Instância do mediator</param>
+        </member>
+        <member name="T:Produto.Importacao.WebAPI.Controllers.ProdutosController">
+            <summary>
+            Controlador principal do Produto
+            </summary>
+        </member>
+        <member name="M:Produto.Importacao.WebAPI.Controllers.ProdutosController.#ctor(AutoMapper.IMapper,Microsoft.Extensions.Logging.ILogger{Produto.Importacao.WebAPI.Controllers.ProdutosController},MediatR.IMediator,Produto.Importacao.Domain.Interfaces.Queries.IQueryGetImports)">
+            <summary>
+            Construtor da classe
+            </summary>
+            <param name="mapper"></param>
+            <param name="logger"></param>
+            <param name="mediator"></param>
+            <param name="queryGetImports"></param>
+        </member>
+        <member name="M:Produto.Importacao.WebAPI.Controllers.ProdutosController.GetAllImportsAsync">
+            <summary>
+            Recupera todos os produtos importados
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Produto.Importacao.WebAPI.Controllers.ProdutosController.GetImportById(System.Int32)">
+            <summary>
+            Recupera o produto importado conforme o id enviado
+            </summary>
+            <param name="id">Código do produto</param>
+            <returns></returns>
+        </member>
+        <member name="M:Produto.Importacao.WebAPI.Controllers.ProdutosController.Insert(Produto.Importacao.Domain.Commands.GravaProdutoCommand)">
+            <summary>
+            Persiste Produto na base de dados
+            </summary>
+            <param name="produto"></param>
+        </member>
+        <member name="T:Produto.Importacao.WebAPI.Program">
+            <summary>
+            Program
+            </summary>
+        </member>
+    </members>
+</doc>
