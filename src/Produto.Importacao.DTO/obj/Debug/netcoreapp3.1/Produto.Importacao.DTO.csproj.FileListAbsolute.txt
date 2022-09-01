@@ -7,3 +7,12 @@ C:\Users\Vini\Desktop\Teste_Capgemini\Enviar_GitHub\Produto.Importacao.Api\src\P
 C:\Users\Vini\Desktop\Teste_Capgemini\Enviar_GitHub\Produto.Importacao.Api\src\Produto.Importacao.DTO\obj\Debug\netcoreapp3.1\Produto.Importacao.DTO.dll
 C:\Users\Vini\Desktop\Teste_Capgemini\Enviar_GitHub\Produto.Importacao.Api\src\Produto.Importacao.DTO\obj\Debug\netcoreapp3.1\Produto.Importacao.DTO.pdb
 C:\Users\Vini\Desktop\Teste_Capgemini\Enviar_GitHub\Produto.Importacao.Api\src\Produto.Importacao.DTO\obj\Debug\netcoreapp3.1\Produto.Importacao.DTO.csprojAssemblyReference.cache
+C:\Workspace\Produto_Importacao\master\src\Produto.Importacao.DTO\bin\Debug\netcoreapp3.1\Produto.Importacao.DTO.deps.json
+C:\Workspace\Produto_Importacao\master\src\Produto.Importacao.DTO\bin\Debug\netcoreapp3.1\Produto.Importacao.DTO.dll
+C:\Workspace\Produto_Importacao\master\src\Produto.Importacao.DTO\bin\Debug\netcoreapp3.1\Produto.Importacao.DTO.pdb
+C:\Workspace\Produto_Importacao\master\src\Produto.Importacao.DTO\obj\Debug\netcoreapp3.1\Produto.Importacao.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Produto_Importacao\master\src\Produto.Importacao.DTO\obj\Debug\netcoreapp3.1\Produto.Importacao.DTO.AssemblyInfoInputs.cache
+C:\Workspace\Produto_Importacao\master\src\Produto.Importacao.DTO\obj\Debug\netcoreapp3.1\Produto.Importacao.DTO.AssemblyInfo.cs
+C:\Workspace\Produto_Importacao\master\src\Produto.Importacao.DTO\obj\Debug\netcoreapp3.1\Produto.Importacao.DTO.csproj.CoreCompileInputs.cache
+C:\Workspace\Produto_Importacao\master\src\Produto.Importacao.DTO\obj\Debug\netcoreapp3.1\Produto.Importacao.DTO.dll
+C:\Workspace\Produto_Importacao\master\src\Produto.Importacao.DTO\obj\Debug\netcoreapp3.1\Produto.Importacao.DTO.pdb

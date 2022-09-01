@@ -7943,17 +7943,21 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Vini\\.nuget\\packages\\": {}
+    "C:\\Users\\Vini\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vini\\Desktop\\Teste_Capgemini\\Enviar_GitHub\\Produto.Importacao.Api\\src\\Produto.Importacao.WebAPI\\Produto.Importacao.WebAPI.csproj",
+      "projectUniqueName": "C:\\Workspace\\Produto_Importacao\\master\\src\\Produto.Importacao.WebAPI\\Produto.Importacao.WebAPI.csproj",
       "projectName": "Produto.Importacao.WebAPI",
-      "projectPath": "C:\\Users\\Vini\\Desktop\\Teste_Capgemini\\Enviar_GitHub\\Produto.Importacao.Api\\src\\Produto.Importacao.WebAPI\\Produto.Importacao.WebAPI.csproj",
+      "projectPath": "C:\\Workspace\\Produto_Importacao\\master\\src\\Produto.Importacao.WebAPI\\Produto.Importacao.WebAPI.csproj",
       "packagesPath": "C:\\Users\\Vini\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vini\\Desktop\\Teste_Capgemini\\Enviar_GitHub\\Produto.Importacao.Api\\src\\Produto.Importacao.WebAPI\\obj\\",
+      "outputPath": "C:\\Workspace\\Produto_Importacao\\master\\src\\Produto.Importacao.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\Vini\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -7969,14 +7973,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Vini\\Desktop\\Teste_Capgemini\\Enviar_GitHub\\Produto.Importacao.Api\\src\\Produto.Importacao.Data\\Produto.Importacao.Data.csproj": {
-              "projectPath": "C:\\Users\\Vini\\Desktop\\Teste_Capgemini\\Enviar_GitHub\\Produto.Importacao.Api\\src\\Produto.Importacao.Data\\Produto.Importacao.Data.csproj"
+            "C:\\Workspace\\Produto_Importacao\\master\\src\\Produto.Importacao.Data\\Produto.Importacao.Data.csproj": {
+              "projectPath": "C:\\Workspace\\Produto_Importacao\\master\\src\\Produto.Importacao.Data\\Produto.Importacao.Data.csproj"
             },
-            "C:\\Users\\Vini\\Desktop\\Teste_Capgemini\\Enviar_GitHub\\Produto.Importacao.Api\\src\\Produto.Importacao.DTO\\Produto.Importacao.DTO.csproj": {
-              "projectPath": "C:\\Users\\Vini\\Desktop\\Teste_Capgemini\\Enviar_GitHub\\Produto.Importacao.Api\\src\\Produto.Importacao.DTO\\Produto.Importacao.DTO.csproj"
+            "C:\\Workspace\\Produto_Importacao\\master\\src\\Produto.Importacao.DTO\\Produto.Importacao.DTO.csproj": {
+              "projectPath": "C:\\Workspace\\Produto_Importacao\\master\\src\\Produto.Importacao.DTO\\Produto.Importacao.DTO.csproj"
             },
-            "C:\\Users\\Vini\\Desktop\\Teste_Capgemini\\Enviar_GitHub\\Produto.Importacao.Api\\src\\Produto.Importacao.IoC\\Produto.Importacao.IoC.csproj": {
-              "projectPath": "C:\\Users\\Vini\\Desktop\\Teste_Capgemini\\Enviar_GitHub\\Produto.Importacao.Api\\src\\Produto.Importacao.IoC\\Produto.Importacao.IoC.csproj"
+            "C:\\Workspace\\Produto_Importacao\\master\\src\\Produto.Importacao.IoC\\Produto.Importacao.IoC.csproj": {
+              "projectPath": "C:\\Workspace\\Produto_Importacao\\master\\src\\Produto.Importacao.IoC\\Produto.Importacao.IoC.csproj"
             }
           }
         }
@@ -8030,7 +8034,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.210\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
       }
     }
   },

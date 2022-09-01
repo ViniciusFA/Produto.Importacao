@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FRFQAPUo7lcEGdzITg/McEkdwsIFXxic95jEutKPUOB5YlxQqQYtZsOv4wxd1k5Df7e5pRVKAIcJcRC9iPmbBg==",
+  "dgSpecHash": "OPm8aYoA4BTKHBxw+w11R4+c6JsD9KFpVnBSsQSDpeWM6onUQh6uw9A+kTIHQ2DQlM5n0AJYDp2WqtVJ124fXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vini\\Desktop\\Teste_Capgemini\\Enviar_GitHub\\Produto.Importacao.Api\\src\\Produto.Importacao.Domain\\Produto.Importacao.Domain.csproj",
+  "projectFilePath": "C:\\Workspace\\Produto_Importacao\\master\\src\\Produto.Importacao.Domain\\Produto.Importacao.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vini\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Vini\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",

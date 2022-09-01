@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5lzM+qO1ImWgA0Uf1E/qjMEzLKCESxqMWwE1xPmRFATRa6eBqQ3vzEA/U8/fMSbvTjaHYl8iuJ72KEMH3P7u5g==",
+  "dgSpecHash": "W7OzT/jXXfv5UFmYahiL0Vz66yeBtVzcW8h+ZljCEzGKXhGcNck8HPN73jAfbBkSSXunMWg2jkCM+yOiUP6uGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vini\\Desktop\\Teste_Capgemini\\Enviar_GitHub\\Produto.Importacao.Api\\src\\Produto.Importacao.WebAPI\\Produto.Importacao.WebAPI.csproj",
+  "projectFilePath": "C:\\Workspace\\Produto_Importacao\\master\\src\\Produto.Importacao.WebAPI\\Produto.Importacao.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vini\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
     "C:\\Users\\Vini\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",

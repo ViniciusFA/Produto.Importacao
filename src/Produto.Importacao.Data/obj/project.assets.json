@@ -900,17 +900,21 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Vini\\.nuget\\packages\\": {}
+    "C:\\Users\\Vini\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vini\\Desktop\\Teste_Capgemini\\Enviar_GitHub\\Produto.Importacao.Api\\src\\Produto.Importacao.Data\\Produto.Importacao.Data.csproj",
+      "projectUniqueName": "C:\\Workspace\\Produto_Importacao\\master\\src\\Produto.Importacao.Data\\Produto.Importacao.Data.csproj",
       "projectName": "Produto.Importacao.Data",
-      "projectPath": "C:\\Users\\Vini\\Desktop\\Teste_Capgemini\\Enviar_GitHub\\Produto.Importacao.Api\\src\\Produto.Importacao.Data\\Produto.Importacao.Data.csproj",
+      "projectPath": "C:\\Workspace\\Produto_Importacao\\master\\src\\Produto.Importacao.Data\\Produto.Importacao.Data.csproj",
       "packagesPath": "C:\\Users\\Vini\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vini\\Desktop\\Teste_Capgemini\\Enviar_GitHub\\Produto.Importacao.Api\\src\\Produto.Importacao.Data\\obj\\",
+      "outputPath": "C:\\Workspace\\Produto_Importacao\\master\\src\\Produto.Importacao.Data\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\Vini\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -926,8 +930,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Vini\\Desktop\\Teste_Capgemini\\Enviar_GitHub\\Produto.Importacao.Api\\src\\Produto.Importacao.Domain\\Produto.Importacao.Domain.csproj": {
-              "projectPath": "C:\\Users\\Vini\\Desktop\\Teste_Capgemini\\Enviar_GitHub\\Produto.Importacao.Api\\src\\Produto.Importacao.Domain\\Produto.Importacao.Domain.csproj"
+            "C:\\Workspace\\Produto_Importacao\\master\\src\\Produto.Importacao.Domain\\Produto.Importacao.Domain.csproj": {
+              "projectPath": "C:\\Workspace\\Produto_Importacao\\master\\src\\Produto.Importacao.Domain\\Produto.Importacao.Domain.csproj"
             }
           }
         }
@@ -962,7 +966,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.210\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
       }
     }
   }
