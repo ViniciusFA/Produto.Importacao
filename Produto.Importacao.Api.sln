@@ -15,15 +15,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Data", "01 - Data", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - CrossCutting", "02 - CrossCutting", "{89575B2B-25D9-4614-94A1-B32947C6649A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Produto.Importacao.WebAPI", "src\Produto.Importacao.WebAPI\Produto.Importacao.WebAPI.csproj", "{39272559-305E-4A98-B488-15456ABECEB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Produto.Importacao.WebAPI", "src\Produto.Importacao.WebAPI\Produto.Importacao.WebAPI.csproj", "{39272559-305E-4A98-B488-15456ABECEB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Produto.Importacao.Domain", "src\Produto.Importacao.Domain\Produto.Importacao.Domain.csproj", "{66FB0345-CA2D-4E9E-9590-D28B580869E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Produto.Importacao.Domain", "src\Produto.Importacao.Domain\Produto.Importacao.Domain.csproj", "{66FB0345-CA2D-4E9E-9590-D28B580869E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Produto.Importacao.Data", "src\Produto.Importacao.Data\Produto.Importacao.Data.csproj", "{9F1D576A-97C5-45AC-ABB3-95E2797D8D0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Produto.Importacao.Data", "src\Produto.Importacao.Data\Produto.Importacao.Data.csproj", "{9F1D576A-97C5-45AC-ABB3-95E2797D8D0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Produto.Importacao.DTO", "src\Produto.Importacao.DTO\Produto.Importacao.DTO.csproj", "{584AE668-041E-4EE2-941B-3DDE164AF265}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Produto.Importacao.DTO", "src\Produto.Importacao.DTO\Produto.Importacao.DTO.csproj", "{584AE668-041E-4EE2-941B-3DDE164AF265}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Produto.Importacao.IoC", "src\Produto.Importacao.IoC\Produto.Importacao.IoC.csproj", "{47E60FD4-F4EC-490C-AF7E-3998533DC2D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Produto.Importacao.IoC", "src\Produto.Importacao.IoC\Produto.Importacao.IoC.csproj", "{47E60FD4-F4EC-490C-AF7E-3998533DC2D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderProcessor", "OrderProcessor\OrderProcessor.csproj", "{CB8F0C4D-8FA9-4083-B007-D15283DE49CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{47E60FD4-F4EC-490C-AF7E-3998533DC2D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47E60FD4-F4EC-490C-AF7E-3998533DC2D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47E60FD4-F4EC-490C-AF7E-3998533DC2D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB8F0C4D-8FA9-4083-B007-D15283DE49CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB8F0C4D-8FA9-4083-B007-D15283DE49CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB8F0C4D-8FA9-4083-B007-D15283DE49CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB8F0C4D-8FA9-4083-B007-D15283DE49CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -66,6 +72,7 @@ Global
 		{9F1D576A-97C5-45AC-ABB3-95E2797D8D0B} = {16A7553E-0843-4995-A861-ADBAEA41191A}
 		{584AE668-041E-4EE2-941B-3DDE164AF265} = {89575B2B-25D9-4614-94A1-B32947C6649A}
 		{47E60FD4-F4EC-490C-AF7E-3998533DC2D9} = {89575B2B-25D9-4614-94A1-B32947C6649A}
+		{CB8F0C4D-8FA9-4083-B007-D15283DE49CA} = {F93B1D07-D672-4CA3-B9DA-5BC71A20CCBC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F9E42635-8E22-4082-A7AB-6880BE670946}
